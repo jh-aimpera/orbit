@@ -2,12 +2,18 @@
 
 All notable changes to this project will be documented in this file. 
 
+#### [v1.4.4](https://github.com/zumerlab/grid/compare/v1.4.3...v1.4.4)
+
+> 15 January 2026
+
+- fix invalid :not selector [`4ea7566`](https://github.com/zumerlab/grid/commit/4ea75661e455a375938f2787a6fb7ba196a3c37b)
+
 #### [v1.4.3](https://github.com/zumerlab/grid/compare/v1.4.0...v1.4.3)
 
 > 18 June 2025
 
-- Optimice web-component code [`c71506e`](https://github.com/zumerlab/grid/commit/c71506e304cdfa9bc45b819bd08c79cda57c2092)
-
+- Improve and optimice code [`c71506e`](https://github.com/zumerlab/grid/commit/c71506e304cdfa9bc45b819bd08c79cda57c2092)
+- Bumped version [`cbda164`](https://github.com/zumerlab/grid/commit/cbda16426f76b61f4630be12d6e94bfeafc581a1)
 
 #### [v1.4.0](https://github.com/zumerlab/grid/compare/v1.3.0...v1.4.0)
 
