@@ -161,6 +161,10 @@ There are many ways to **contribute** to **Orbit** development:
   <img src="https://contrib.rocks/image?repo=zumerlab/orbit-docs" />
 </a>
 
+<a href="https://github.com/zumerlab/orbit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zumerlab/orbit" />
+</a>
+
 ## License 
 
 [MIT](https://github.com/zumerlab/orbit/blob/main/LICENSE)
